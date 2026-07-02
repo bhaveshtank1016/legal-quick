@@ -131,7 +131,7 @@ export default function Footer() {
           </p>
           <input
             type="email"
-            className="p-2 rounded text-black w-full mb-3 focus:outline-none"
+            className="p-2 rounded text-white w-full mb-3 focus:outline-white"
             placeholder="Email Address"
           />
           <button className="bg-yellow-400 text-black py-2 px-4 rounded hover:bg-yellow-300 w-full font-medium transition-all">
