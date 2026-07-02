@@ -6,7 +6,7 @@ import {
   FaXTwitter,
 } from "react-icons/fa6";
 import FloatingCTAButton from "./FloatingCTAButton";
-import reallogo from "../assets/reallogo.png"
+import reallogo from "../assets/footerlogo.png"
 
 export default function Footer() {
   return (

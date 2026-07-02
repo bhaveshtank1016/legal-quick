@@ -1,6 +1,6 @@
 import React from "react";
 import { FaStar, FaArrowRight } from "react-icons/fa";
-import legalHero from "../assets/legalservice.jpg"; // Add your image
+import legalHero from "../assets/reallogo.png"; // Add your image
 
 const Home = () => {
   return (
@@ -93,11 +93,11 @@ const Home = () => {
             <img
               src={legalHero}
               alt="Legal Services"
-              className="relative z-10 w-full max-w-xl mx-auto"
+              className="relative p-10 z-10 w-full max-w-xl mx-auto"
             />
 
             {/* Floating Card 1 */}
-            <div className="hidden lg:block absolute top-10 left-0 bg-white shadow-xl rounded-2xl p-4 z-20">
+            <div className="hidden lg:block absolute top-0 left-0 bg-white shadow-xl rounded-2xl p-4 z-20">
               <h4 className="font-semibold text-gray-900">
                 500+
               </h4>
@@ -107,7 +107,7 @@ const Home = () => {
             </div>
 
             {/* Floating Card 2 */}
-            <div className="hidden lg:block absolute bottom-10 right-0 bg-white shadow-xl rounded-2xl p-4 z-20">
+            <div className="hidden lg:block absolute bottom-3 right-0 bg-white shadow-xl rounded-2xl p-4 z-20">
               <h4 className="font-semibold text-gray-900">
                 4.9★ Rating
               </h4>

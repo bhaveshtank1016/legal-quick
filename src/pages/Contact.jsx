@@ -68,7 +68,7 @@ const Contact = () => {
               <Clock className="text-indigo-600 mt-1" />
               <div>
                 <p className="font-semibold">Working Hours</p>
-                <p>Monday – Saturday: 9:00 AM – 7:00 PM</p>
+                <p>Monday – Saturday: 10:00 AM – 7:00 PM</p>
                 <p>Sunday: Closed</p>
               </div>
             </div>
